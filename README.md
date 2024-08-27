@@ -19,7 +19,7 @@ Improved understanding of responsive design principles.
 Enhanced ability to create detailed and polished user interfaces.
 How to Use
 Clone the repository:
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/Sparsh0Shukla/amazon-clone.git
 
 Navigate to the project directory:
 cd amazon-clone
